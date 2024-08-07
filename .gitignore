@@ -1,0 +1,38 @@
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Logs
+logs
+*.log
+log/
+
+# Dependency directories
+frontend/node_modules/
+backend/node_modules/
+
+# Build directories
+frontend/build/
+frontend/dist/
+backend/build/
+backend/dist/
+
+# Environment variables
+.env
+frontend/.env
+backend/.env
+
+# Cache directories
+frontend/.next/
+frontend/.cache/
+backend/.cache/
+
+# IDEs and editors
+.vscode/
+.idea/
+*.swp
+
+# Miscellaneous
+.DS_Store
+Thumbs.db
